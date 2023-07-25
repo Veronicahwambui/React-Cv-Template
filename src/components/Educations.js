@@ -22,7 +22,7 @@ export default function Educations() {
                         <td>Web Development</td>
                         <td>Jan 2018</td>
                         <td>
-                            <Link to='/details' class='btn blue lighten-2'>
+                            <Link to='/' class='btn blue lighten-2'>
                                 View
                             </Link>
                         </td>
@@ -31,7 +31,7 @@ export default function Educations() {
                         <td>Graphic Design</td>
                         <td>May 2018</td>
                         <td>
-                            <Link to='/details' class='btn blue lighten-2'>
+                            <Link to='/' class='btn blue lighten-2'>
                                 View
                             </Link>
                         </td>
@@ -40,7 +40,7 @@ export default function Educations() {
                         <td>Tech Gadgets</td>
                         <td>June 2018</td>
                         <td>
-                            <Link to='/details' class='btn blue lighten-2'>
+                            <Link to='/' class='btn blue lighten-2'>
                                 View
                             </Link>
                         </td>
@@ -49,7 +49,7 @@ export default function Educations() {
                         <td>Other</td>
                         <td>Dec 2018</td>
                         <td>
-                            <Link to='/details' class='btn blue lighten-2'>
+                            <Link to='/' class='btn blue lighten-2'>
                                 View
                             </Link>
                         </td>

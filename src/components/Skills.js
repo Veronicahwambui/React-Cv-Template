@@ -15,7 +15,7 @@ export default function Skills() {
   <div className='col s6'>
     <p>HTML</p>
     <div className='progress grey lighten-1'>
-<div className='determinate blue' style={{width:'89%'}}>
+<div className='determinate grey' style={{width:'89%'}}>
 </div>
     </div>
 
