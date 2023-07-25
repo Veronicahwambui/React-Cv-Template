@@ -3,10 +3,9 @@ import './App.css';
 
 import 'materialize-css/dist/css/materialize.min.css'
 
-import M from 'materialize-css/dist/js/materialize.min.js'
+import 'materialize-css/dist/js/materialize.min.js'
 
-import { Route,  BrowserRouter as Router, Routes } from 'react-router-dom'  
-
+import { Route, Routes } from 'react-router-dom';
 import Skills from './components/Skills';
 import Educations from './components/Educations';
 import Experiences from './components/Experiences';
